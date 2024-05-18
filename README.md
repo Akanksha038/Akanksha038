@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-![logo](https://github.com/Akanksha038/Akanksha038/blob/main/BACKGROUND2.png)
+![logo](https://github.com/Akanksha038/Akanksha038/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <!--
 **Akanksha038/Akanksha038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
